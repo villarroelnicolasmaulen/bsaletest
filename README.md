@@ -20,3 +20,6 @@ Para recibir los datos correspondientes se utilizó el método 'fetch' con AJAX,
 ### Backend
 Se realizó el backend en una API de Node.js, la cual se subió a Heroku con el fin de permitir la transferencia de información. El repositorio de la API también se encuentra dentro de mi perfil de Github, el link es: https://github.com/villarroelnicolasmaulen/bsale_ejercicio.
 En la API se trabajó con express y rutas para realizar el pedido de datos. Únicamente se realizaron solicitudes de SELECT (GET) ya que no se especificó la necesidad de actualizar o eliminar datos, solo de visualizarlos. Por otro lado se instaló el paquete de 'CORS’, a través de npm, con el fin de evitar problemas en la utilización del método 'fetch'.
+
+Link deploy: https://villarroelnicolasmaulen.github.io/bsaletest/
+
